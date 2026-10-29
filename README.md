@@ -1,6 +1,6 @@
 ### Olá! Me chamo Gabriel Francisco 🫡
 
-### Sou estudante de engenharia de computação no SENAI CIMATEC e projetista da CIMATECjr
+### Sou estudante de engenharia de computação no SENAI CIMATEC
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabsfma)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielfmamaral@gmail.com)
 
